@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMapByFileExtension": {
+        ".tex": "cd $dir && pdflatex $fileName -output-directory=../bin/"
+    }
+}
