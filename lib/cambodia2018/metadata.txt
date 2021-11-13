@@ -1,0 +1,18 @@
+In order to illustrate how the Hare quota can be a more ideal method for Proportional Representation than others, we have compiled an example in the form of the 2018 Cambodian general election. The election was so rigged, that the Cambodian People's Party (CPP) won all 125 seats in the National Assembly. Members are elected in multi-member constituencies ranging in size from one to twelve seats. The D'Hondt method is used to allocate seats. The D'Hondt method benefits larger parties at the expense of smaller ones. Hare quota is less biased, but gives a slight advantage to smaller parties instead. 
+
+The 'cambodia2018.xlsx' file contains the calculation process for the election under the Hare method, as opposed to the D'Hondt.
+
+The 'dhondt.svg' file displays the results under the D'Hondt method (the real results).
+
+The 'hare.svg' file displays the results under the Hare method.
+
+Sources:
+
+- National Election Committee (NEC) of Cambodia (Election Results): https://www.nec.gov.kh/khmer/content/3520
+- Electoral Law of Cambodia: https://www.nec.gov.kh/english/content/law-election-members-national-assembly
+- Wikipedia: https://en.wikipedia.org/wiki/2018_Cambodian_general_election
+- Provinces (Constituencies): https://en.wikipedia.org/wiki/Provinces_of_Cambodia
+
+The NEC's website is available in English, but the page displaying the results is only in Khmer.
+
+សំណាង​ល្!
