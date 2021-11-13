@@ -29,10 +29,13 @@
 
 \newcommand{\formula}[1]
 {\textit
-    {\\Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled%
-        {\IfSubStr{#1}{True}
-            { (two-thirds of each House concurring therein),}
-            {,}
+    {\IfSubStr{#1}{state}
+        {\\Be it enacted by the Legislature of [state],}
+        {\\Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled%
+            {\IfSubStr{#1}{True}
+                { (two-thirds of each House concurring therein),}
+                {,}
+            }
         }
     }\end{hangingpar}
 }
